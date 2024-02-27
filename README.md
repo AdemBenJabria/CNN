@@ -11,7 +11,7 @@ Dans le monde, **537 millions d'adultes** âgés de 20 à 79 ans vivent actuelle
 
 En France, la prévalence du diabète de type 2 diagnostiqué est d'environ **4,5%** de la population générale, tandis que le diabète de type 1 concerne environ **10 %** des personnes diabétiques. Avec près de **3,9 millions** de patients diagnostiqués en 2021, dont 10% de type 1, le diabète représente une **épidémie croissante**. Depuis 20 ans, l’incidence augmente de **4% par an**, et il apparaît de plus en plus tôt, notamment chez les enfants de moins de 5 ans.
 
-![Shéma de l'oeil](images\oeil.png)
+![Shéma de l'oeil](/models/images/oeil.png)
 
 La **rétinopathie diabétique (DR)**, complication oculaire du diabète, est une préoccupation majeure en France comme dans le reste du monde. Elle peut conduire à la cécité si elle n'est pas détectée et traitée à temps. Actuellement, la détection de la DR est un processus manuel exigeant, réalisé par des cliniciens formés qui examinent des photographies du fond d'œil. Cette méthode est non seulement longue, mais aussi sujette à des retards qui peuvent entraîner des pertes de suivi et des retards de traitement.
 
