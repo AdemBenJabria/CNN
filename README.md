@@ -41,7 +41,7 @@ Toutes les images sont déjà sauvegardées dans leurs dossiers respectifs selon
 # Comprendre les stades de la rétinopathie diabétique
 Une glycémie, une pression artérielle et des taux de cholestérol élevés, ainsi qu'une augmentation du poids corporel sont associés au diabète non contrôlé et peuvent endommager les délicats vaisseaux sanguins de la rétine, causant une maladie appelée rétinopathie diabétique. Aux premiers stades de la rétinopathie diabétique, la perte de vision peut être prévenue ou limitée ; mais à mesure que la condition progresse, il devient plus difficile de prévenir la perte de vision.
 
-![Oeil Sain VS Oeil Atteint](images\oeilVS.png)
+![Oeil Sain VS Oeil Atteint](/models/images/oeilVS.png)
 
 ## Rétinopathie Non Proliférative
 
@@ -59,8 +59,8 @@ Une autre complication à surveiller est la croissance de ces vaisseaux sanguins
 
 
 
-![Oeil Sain, léger, modéré, sévère, prolifératif](images\differenceoeil.png)
-![Oeil Sain, léger, modéré, sévère, prolifératif en image réel](images\01234.png)
+![Oeil Sain, léger, modéré, sévère, prolifératif](/models/images/differenceoeil.png)
+![Oeil Sain, léger, modéré, sévère, prolifératif en image réel](/models/images/images\01234.png)
 
 
 
